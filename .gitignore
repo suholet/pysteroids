@@ -11,3 +11,7 @@ wheels/
 
 # Game logs
 game_state.jsonl
+
+# OS cruft
+.DS_Store
+Thumbs.db
